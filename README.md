@@ -7,7 +7,7 @@ The course slides: https://github.com/EPCCed/2026-11-27-AI-Frameworks/blob/main/
 
 During this course, we also referred to material in the course Demystifying AI (including an introduction to Embeddings). You can find this at https://github.com/EPCCed/2026-08-21-Demystifying-AI. 
 
-You will have access to the notebook server at https://notebook.eidf.ed.ac.uk for several days after the course. After the course, the notebook files will be available here, but you will need to run them on your own computer or an online on a service like Google Colab.
+You will have access to the notebook server at https://notebook.eidf.ac.uk for several days after the course. After the course, the notebook files will be available here, but you will need to run them on your own computer or an online on a service like Google Colab.
 
 Follow-up questions after the course can be addressed to training@ukaifa.org.uk.
 
